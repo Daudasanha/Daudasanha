@@ -1,45 +1,145 @@
-# 👋 Hi, I'm Dauda Sanhá
+# 👋 Olá, eu sou Dauda Sanhá
 
-💻 Software Development Student | Future Full Stack Developer
+💻 Web Developer | React • JavaScript • Spring Boot
 
-I'm currently studying Analysis and Systems Development and I'm passionate about building software solutions and learning new technologies.
+Sou estudante de Análise e Desenvolvimento de Sistemas apaixonado por desenvolvimento web moderno, criação de interfaces profissionais e soluções digitais para negócios locais.
 
-## 🚀 About Me
-- 🎓 Student of Analysis and Systems Development
-- 💻 Interested in Web Development, Backend and Automation
-- 🌱 Currently learning Java, Python and Spring Boot
-- 🧠 Improving my skills through academic and personal projects
-- ⚽ I enjoy football and teamwork, which also helps me collaborate in projects
+Atualmente estou focado em construir projetos reais utilizando React, Tailwind CSS, JavaScript e Spring Boot, evoluindo constantemente como desenvolvedor full stack.
 
-## 🛠️ Technologies & Tools
+---
+
+# 🚀 Sobre Mim
+
+- 🎓 Estudante de Análise e Desenvolvimento de Sistemas
+- 💻 Desenvolvedor Web focado em Front-End moderno
+- ⚛️ Criando interfaces responsivas com React e Tailwind CSS
+- 🌱 Aprendendo continuamente Java, Spring Boot e desenvolvimento Full Stack
+- 🧠 Desenvolvendo projetos acadêmicos e profissionais
+- ⚽ Apaixonado por futebol, tecnologia e trabalho em equipe
+
+---
+
+# 🛠️ Tecnologias & Ferramentas
+
+### Front-End
+- React
+- JavaScript
+- Tailwind CSS
+- HTML5
+- CSS3
+
+### Back-End
 - Java
-- Python
 - Spring Boot
-- HTML & CSS
+- Python
+
+### Banco de Dados
 - MySQL
-- Git & GitHub
-- Postman (API testing)
 
-## 📂 Projects
-Some projects I'm working on or have developed:
+### Ferramentas
+- Git
+- GitHub
+- Postman
+- VS Code
+- Vercel
 
-- 🏨 Hotel Management System 
-  Backend system built with Spring Boot to manage rooms, guests and reservations with REST API endpoints.
+---
 
-- 🛒 EcoPreço 
-  A system idea to help users compare supermarket prices and manage shopping lists.
+# 🌎 Portfólio
 
-- 📱 Student Guide App (Android) 
-  An app concept to help international students with guidance about university life and documentation.
+🔗 https://SEU-LINK-VERCEL.vercel.app
 
-## 📚 Currently Learning
-- REST API development with Spring Boot  
-- Backend best practices  
-- Database integration with MySQL
+---
 
-## 🤝 Collaboration
-I’m open to collaborating on learning projects, backend systems and web development projects.
+# 📂 Projetos em Destaque
 
-## 📫 How to reach me
-- LinkedIn: https://www.linkedin.com/in/dauda-sanha-228330315
-- Email: dauda.sanha@aluno.fmpsc.edu.br
+## 🌐 Portfólio Profissional
+Portfólio moderno desenvolvido com React e Tailwind CSS focado em design responsivo, apresentação profissional e experiência do usuário.
+
+Tecnologias:
+- React
+- Tailwind CSS
+- Vercel
+
+---
+
+## 🏨 Hotel Management System
+Sistema backend desenvolvido com Spring Boot para gerenciamento de quartos, hóspedes e reservas utilizando APIs REST.
+
+Tecnologias:
+- Java
+- Spring Boot
+- MySQL
+- Postman
+
+---
+
+## 🛒 EcoPreço
+Projeto acadêmico focado em comparação de preços de supermercados e organização inteligente de compras.
+
+Funcionalidades:
+- Comparação de preços
+- Controle de gastos
+- Lista de compras
+- Gestão de produtos
+
+---
+
+## 💈 Barbearia Premium
+Landing page moderna para barbearias com integração WhatsApp, design premium e foco em conversão.
+
+Tecnologias:
+- React
+- Tailwind CSS
+- Responsive Design
+
+---
+
+## 🍔 Hamburgueria Website
+Site moderno para hamburgueria com cardápio digital, integração delivery e experiência mobile otimizada.
+
+Tecnologias:
+- React
+- JavaScript
+- Tailwind CSS
+
+---
+
+# 📚 Atualmente Aprendendo
+
+- React avançado
+- Tailwind CSS
+- UI/UX Design
+- APIs REST
+- Desenvolvimento Full Stack
+- Boas práticas de desenvolvimento web
+
+---
+
+# 🤝 Objetivos
+
+Atualmente busco:
+- Evoluir como desenvolvedor full stack
+- Criar projetos modernos e profissionais
+- Trabalhar com desenvolvimento web freelance
+- Construir soluções digitais reais
+- Colaborar em projetos de tecnologia
+
+---
+
+# 📫 Contato
+
+### LinkedIn
+https://www.linkedin.com/in/dauda-sanha-228330315
+
+### Email
+dauda.sanha@aluno.fmpsc.edu.br
+
+---
+
+# 🚀 Status Atual
+
+✅ Portfólio em desenvolvimento  
+✅ Projetos reais sendo construídos  
+✅ Evoluindo diariamente com React e desenvolvimento web  
+✅ Construindo presença profissional online  
